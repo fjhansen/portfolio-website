@@ -1322,6 +1322,7 @@ input, select, textarea {
 			-webkit-transition: none !important;
 			-ms-transition: none !important;
 			transition: none !important;
+			
 		}
 
 	body, input, textarea, select {
